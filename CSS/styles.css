@@ -1,0 +1,13 @@
+h2.intro {
+
+  text-align: center;
+  color: blue;
+}
+
+p.intro {
+  font-style: italic;
+}
+
+img.intro {
+  border-radius: 50%;
+}
